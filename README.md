@@ -1,10 +1,10 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=baa5ff&height=150&section=header" />
 
 ### Hi there👋   
 # this is Yoon's github!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=711fc4&height=150&section=footer" />
 <!--
 **yu-nsojeong/yu-nsojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
