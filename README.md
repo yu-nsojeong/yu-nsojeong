@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Anemoiiaa&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics-Vision&descAlignY=55&descAlign=72.8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=YoonSojeong&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics-Vision&descAlignY=55&descAlign=72.8)
 
 ### Hi there👋   
 # this is Yoon's github!
