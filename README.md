@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=YoonSojeong&fontSize=60&animation=fadeIn)
 
 
-
-
-https://github.com/user-attachments/assets/60fcc420-0355-48e7-973a-4e64741c9d96
-
-
-
-
 ### Hi there👋   
 # this is Yoon's github!
 
